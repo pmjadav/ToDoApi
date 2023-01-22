@@ -552,3 +552,4 @@ D:\wsd\web_api\ToDoApi\ToDoApi\obj\Debug\net7.0\refint\ToDoApi.dll
 D:\wsd\web_api\ToDoApi\ToDoApi\obj\Debug\net7.0\ToDoApi.pdb
 D:\wsd\web_api\ToDoApi\ToDoApi\obj\Debug\net7.0\ToDoApi.genruntimeconfig.cache
 D:\wsd\web_api\ToDoApi\ToDoApi\obj\Debug\net7.0\ref\ToDoApi.dll
+D:\wsd\web_api\ToDoApi\ToDoApi\bin\Debug\net7.0\ToDoApi.staticwebassets.runtime.json
