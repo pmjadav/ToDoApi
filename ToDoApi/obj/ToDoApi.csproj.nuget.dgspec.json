@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CEDDIT\\WSD\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {}
+    "D:\\wsd\\web_api\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CEDDIT\\WSD\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {
+    "D:\\wsd\\web_api\\ToDoApi\\ToDoApi\\ToDoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CEDDIT\\WSD\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+        "projectUniqueName": "D:\\wsd\\web_api\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
         "projectName": "ToDoApi",
-        "projectPath": "C:\\Users\\CEDDIT\\WSD\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
-        "packagesPath": "C:\\Users\\CEDDIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CEDDIT\\WSD\\ToDoApi\\ToDoApi\\obj\\",
+        "projectPath": "D:\\wsd\\web_api\\ToDoApi\\ToDoApi\\ToDoApi.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\wsd\\web_api\\ToDoApi\\ToDoApi\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\CEDDIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
